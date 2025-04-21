@@ -2,9 +2,7 @@ theme: minima
 title: "About me"
 description: "Computer Science Student • Creator • Problem Solver"
 
-author:
-  name: "Anis Golriz"
-  email: "anisgolriz714@gmail.com"
+author: "Anis Golriz - anisgolriz714@gmail.com"
 social:
   links:
     -"https://www.linkedin.com/in/anisgolriz/"
